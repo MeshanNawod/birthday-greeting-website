@@ -1,10 +1,18 @@
-# 🎂 3D Interactive Birthday Celebration Web App
+<div align="center">
 
-An immersive, highly optimized, and interactive 3D birthday celebration web application built with **Three.js** and vanilla web technologies. It features a fully rendered 3D scene complete with a birthday cake, flickering candles that you can blow out or toggle, floating balloons, glowing stars, particle fireworks, and dynamic name personalization via URL parameters!
+# 🎂 3D Birthday Greeting
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+A 3D birthday scene in the browser: a cake with candles you can blow out, balloons you can pop, fireworks, and the name of your choice.
+
+[![Live demo](https://img.shields.io/badge/Live_demo-Open_in_browser-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white)](https://meshannawod.github.io/birthday-greeting-website/?name=Meshan)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) ![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
+
+<img src="docs/screenshot.png" alt="3D birthday cake scene" width="860">
+
+</div>
+
+**Make it personal:** add `?name=` to the link, for example [`…/birthday-greeting-website/?name=Alex`](https://meshannawod.github.io/birthday-greeting-website/?name=Alex).
 
 ---
 
